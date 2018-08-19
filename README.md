@@ -1,2 +1,2 @@
 # NyaaCentral
-Maven repository of nyaa plugins
+Javadocs of nyaa plugins
