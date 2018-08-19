@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"cat.nyaa.nyaacore"},{"l":"cat.nyaa.nyaacore.component"},{"l":"cat.nyaa.nyaacore.configuration"},{"l":"cat.nyaa.nyaacore.database"},{"l":"cat.nyaa.nyaacore.database.keyvalue"},{"l":"cat.nyaa.nyaacore.database.provider"},{"l":"cat.nyaa.nyaacore.database.relational"},{"l":"cat.nyaa.nyaacore.timer"},{"l":"cat.nyaa.nyaacore.utils"}]
