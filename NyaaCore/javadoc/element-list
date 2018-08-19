@@ -1,0 +1,9 @@
+cat.nyaa.nyaacore
+cat.nyaa.nyaacore.component
+cat.nyaa.nyaacore.configuration
+cat.nyaa.nyaacore.database
+cat.nyaa.nyaacore.database.keyvalue
+cat.nyaa.nyaacore.database.provider
+cat.nyaa.nyaacore.database.relational
+cat.nyaa.nyaacore.timer
+cat.nyaa.nyaacore.utils
