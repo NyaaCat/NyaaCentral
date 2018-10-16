@@ -12,6 +12,7 @@ cat.nyaa.nyaautils.mention
 cat.nyaa.nyaautils.messagequeue
 cat.nyaa.nyaautils.particle
 cat.nyaa.nyaautils.realm
+cat.nyaa.nyaautils.redstonecontrol
 cat.nyaa.nyaautils.repair
 cat.nyaa.nyaautils.signedit
 cat.nyaa.nyaautils.timer
