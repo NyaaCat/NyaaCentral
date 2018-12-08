@@ -5,38 +5,38 @@
   <version>3.6-mc1.13.2-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20181208.175132</timestamp>
+      <timestamp>20181208.203052</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20181208175132</lastUpdated>
+    <lastUpdated>20181208203052</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>3.6-mc1.13.2-20181208.175132-1</value>
-        <updated>20181208175132</updated>
+        <value>3.6-mc1.13.2-20181208.203052-1</value>
+        <updated>20181208203052</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>3.6-mc1.13.2-20181208.175132-1</value>
-        <updated>20181208175132</updated>
+        <value>3.6-mc1.13.2-20181208.203052-1</value>
+        <updated>20181208203052</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>release</classifier>
         <extension>jar</extension>
-        <value>3.6-mc1.13.2-20181208.175132-1</value>
-        <updated>20181208175132</updated>
+        <value>3.6-mc1.13.2-20181208.203052-1</value>
+        <updated>20181208203052</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>3.6-mc1.13.2-20181208.175132-1</value>
-        <updated>20181208175132</updated>
+        <value>3.6-mc1.13.2-20181208.203052-1</value>
+        <updated>20181208203052</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>3.6-mc1.13.2-20181208.175132-1</value>
-        <updated>20181208175132</updated>
+        <value>3.6-mc1.13.2-20181208.203052-1</value>
+        <updated>20181208203052</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
