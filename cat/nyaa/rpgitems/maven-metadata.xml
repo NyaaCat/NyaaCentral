@@ -3,11 +3,11 @@
   <groupId>cat.nyaa</groupId>
   <artifactId>rpgitems</artifactId>
   <versioning>
-    <release>3.6.559-mc1.13.2</release>
+    <release>3.6.560-mc1.13.2</release>
     <versions>
-      <version>3.6.559-mc1.13.2</version>
+      <version>3.6.560-mc1.13.2</version>
       <version>3.6-mc1.13.2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20181216103157</lastUpdated>
+    <lastUpdated>20181216105220</lastUpdated>
   </versioning>
 </metadata>
