@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cat.nyaa</groupId>
+  <artifactId>rpgitems-attr-new</artifactId>
+  <versioning>
+    <versions>
+      <version>3.7-mc1.13.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190612101048</lastUpdated>
+  </versioning>
+</metadata>
