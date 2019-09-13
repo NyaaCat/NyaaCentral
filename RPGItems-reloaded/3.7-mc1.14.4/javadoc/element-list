@@ -1,0 +1,9 @@
+think.rpgitems
+think.rpgitems.api
+think.rpgitems.data
+think.rpgitems.item
+think.rpgitems.power
+think.rpgitems.power.cond
+think.rpgitems.power.impl
+think.rpgitems.support
+think.rpgitems.utils
