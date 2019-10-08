@@ -4,8 +4,8 @@
   <artifactId>rpgitems</artifactId>
   <versioning>
     <versions>
-      <version>3.7-mc1.14.4-SNAPSHOT</version>
+      <version>3.7-mc1.13.2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20191004152307</lastUpdated>
+    <lastUpdated>20191008090709</lastUpdated>
   </versioning>
 </metadata>
